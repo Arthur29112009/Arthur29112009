@@ -6,6 +6,6 @@ Meu nome é Arthur Marques Sanches
 - Estou me deenvolveno na linguagem JavaScript
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetoss desenvolvidos
 
-  E-Mail de contato:
+- Entre em contato comigo:
 
 arthurmsanches29@gmail.com
